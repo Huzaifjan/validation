@@ -1,0 +1,18 @@
+{
+  message: 'something went wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-03T04:24:57.942Z'
+}
+{
+  message: 'something went wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-03T04:26:27.763Z'
+}
+{
+  message: 'something went wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-03T04:26:53.772Z'
+}

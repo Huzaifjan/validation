@@ -1,0 +1,52 @@
+{"level":"info","message":"server is running on port 3001","service":"user-service"}
+{"level":"info","message":"server is running on port 3001","service":"user-service"}
+{"level":"info","message":"server is running on port 3001","service":"user-service"}
+{
+  message: 'server is running on port 3001',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2024-05-03T04:23:53.231Z'
+}
+{
+  message: 'server is running on port 3001',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-03T04:24:13.802Z'
+}
+{
+  message: 'something went wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-03T04:24:57.942Z'
+}
+{
+  message: 'server is running on port 3001',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-03T04:24:57.944Z'
+}
+{
+  message: 'something went wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-03T04:26:27.763Z'
+}
+{
+  message: 'server is running on port 3001',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-03T04:26:27.765Z'
+}
+{
+  message: 'something went wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-05-03T04:26:53.772Z'
+}
+{
+  message: 'server is running on port 3001',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-05-03T04:26:53.775Z'
+}
